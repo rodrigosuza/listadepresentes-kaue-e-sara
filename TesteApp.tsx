@@ -19,7 +19,7 @@ const TesteApp: React.FC = () => {
                 <div className="bg-stone-50 p-4 rounded-2xl text-left border border-stone-100">
                     <p className="text-[10px] font-bold uppercase text-stone-400 mb-2">URL de Acesso</p>
                     <code className="text-marsala-700 text-xs break-all">
-                        ronald-iara.vercel.app/teste.html
+                        kaue-sara.vercel.app/teste.html
                     </code>
                 </div>
 

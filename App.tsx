@@ -270,7 +270,7 @@ const App: React.FC = () => {
       <nav className="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-marsala-100 shadow-sm transition-all h-14 md:h-16">
         <div className="max-w-2xl mx-auto px-4 h-full flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <span className="font-serif text-xl md:text-2xl tracking-tight text-marsala-900">Ronald & Iara</span>
+            <span className="font-serif text-xl md:text-2xl tracking-tight text-marsala-900">Kaue & Sara</span>
           </div>
           <button
             onClick={() => setIsAdminOpen(true)}
@@ -334,7 +334,7 @@ const App: React.FC = () => {
       <footer className="bg-marsala-900 border-t border-marsala-800 pt-16 pb-12 text-center px-4 mt-6">
         <div className="max-w-xs mx-auto space-y-8">
           <div className="space-y-2">
-            <p className="font-serif text-4xl text-white tracking-widest">Ronald & Iara</p>
+            <p className="font-serif text-4xl text-white tracking-widest">Kaue & Sara</p>
             <div className="w-12 h-0.5 bg-marsala-400 mx-auto rounded-full"></div>
             <p className="text-marsala-200 text-sm uppercase tracking-widest font-light">Casamento 2026</p>
           </div>
