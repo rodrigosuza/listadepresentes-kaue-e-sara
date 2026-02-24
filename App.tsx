@@ -135,7 +135,7 @@ const App: React.FC = () => {
 
   const handleAdminLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    if (passwordInput === 'Muni1234eli@') {
+    if (passwordInput === 'kaue&sara#2026') {
       setIsAdminAuthenticated(true);
       setAuthError(false);
       setPasswordInput('');
@@ -355,9 +355,7 @@ const App: React.FC = () => {
             >
               Rodrigo Souza
             </a>
-            <p className="text-marsala-400 text-[10px] flex items-center justify-center gap-1 mt-2">
-              Melhor amigo da Noiva <Heart size={8} className="text-marsala-500 fill-marsala-500" />
-            </p>
+
           </div>
         </div>
       </footer>
